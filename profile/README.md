@@ -1,1 +1,13 @@
-# Test
+<img src="https://raw.githubusercontent.com/zen-browser/.github/refs/heads/main/profile/logo-black.png" align="left" width="200"/>
+
+### `Meta Browser`
+
+Experience tranquility while browsing the internet with Zen! Our mission is to give you a perfect balance for speed, privacy and productivity
+
+<a href="https://docs.zen-browser.app/contribute/translation">Contribute</a> ·
+<a href="https://www.zen-browser.app">Website</a> ·
+<a href="https://docs.zen-browser.app">Docs</a> ·
+<a href="https://www.zen-browser.app/download">Download</a> ·
+<a href="https://www.zen-browser.app/release-notes/latest">Release Notes</a>
+
+[![Status badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fuptime.zen-browser.app%2Fshield-badges%2Fstatus.json&style=for-the-badge)](https://uptime.zen-browser.app)
