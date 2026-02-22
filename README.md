@@ -1,4 +1,4 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="https://raw.githubusercontent.com/zen-browser/.github/refs/heads/main/profile/logo-black.png" align="left" width="200"/>
 
 ### `Zen Browser`
 
